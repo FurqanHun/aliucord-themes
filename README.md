@@ -8,6 +8,9 @@ A collection of pure AMOLED themes for Aliucord with **Inter** typography, desig
   <em>cooo</em>
 </p>
 
+> [!WARNING]
+> These themes are designed specifically for yutaplug's **[Themes](https://github.com/yutaplug/yutaplugins/tree/main/plugins/Themes)** plugin and **will NOT work with the legacy Themer plugin** (they will fail to apply and opening color settings in Themer will crash Aliucord).
+
 ---
 
 ## Themes
@@ -18,15 +21,21 @@ A handcrafted pure AMOLED theme inspired by adomination.
 ### 2. AmAmAmEx ([`AmAmAmEx.json`](AmAmAmEx.json))
 Pure AMOLED theme with **Material You (Monet)** dynamic wallpaper accents.
 
-Both themes use the **[Inter](https://github.com/neural0x/fonts_inter_ttf)** font family and require Dark Mode btw.
+---
+
+## Requirements
+
+Make sure the following settings are enabled:
+- **Appearance**: Discord must be in **Dark Mode**.
+- **Transparency**: Set to **None** (No Transparency) in Themes settings.
+- **Custom Font**: **Enable Custom Font** in Themes settings (to apply the bundled [Inter](https://github.com/neural0x/fonts_inter_ttf) font family).
+- **Custom Icons & Sounds**: Optional / can be left enabled (may be... a big MAYBE... added in future updates).
+- **Plugin**: **[Themes](https://github.com/yutaplug/yutaplugins/tree/main/plugins/Themes)** plugin (legacy Themer is not supported).
 
 ---
 
 ## Installation
 
-Find the themes channel in the Aliucord's community server and look for the theme.
-
-### Manual Install
 1. Ensure the **[Themes](https://github.com/yutaplug/yutaplugins/tree/main/plugins/Themes)** plugin is installed in Aliucord.
 2. Download your preferred theme file (`AdoMoled.json` or `AmAmAmEx.json`) and place it in:
    ```text
