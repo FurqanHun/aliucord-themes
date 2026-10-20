@@ -1,6 +1,6 @@
 # AmAmAmEx & AdoMoled
 
-A collection of pure AMOLED themes for Aliucord with **Inter** typography, designed for the ~~Themer~~ **[Themes](https://github.com/yutaplug/yutaplugins/tree/main/plugins/Themes)** plugin.
+A collection of pure AMOLED themes for Aliucord with **Inter** typography, designed for the ~~Themer~~ **Themes** plugin.
 
 <p align="center">
   <img src="ado.png" width="180" alt="cooo pigeon ado meme" />
@@ -9,7 +9,7 @@ A collection of pure AMOLED themes for Aliucord with **Inter** typography, desig
 </p>
 
 > [!WARNING]
-> These themes are designed specifically for yutaplug's **[Themes](https://github.com/yutaplug/yutaplugins/tree/main/plugins/Themes)** plugin and **will NOT work with the legacy Themer plugin** (they will fail to apply and opening color settings in Themer will crash Aliucord).
+> These themes are designed specifically for yutaplug's **[Themes](https://github.com/yutaplug/yutaplugins/blob/builds/Themes.zip)** plugin and **will NOT work with the legacy Themer plugin** (they will fail to apply and opening color settings in Themer will crash Aliucord).
 
 ---
 
@@ -30,18 +30,18 @@ Make sure the following settings are enabled:
 - **Transparency**: Set to **None** (No Transparency) in Themes settings.
 - **Custom Font**: **Enable Custom Font** in Themes settings (to apply the bundled [Inter](https://github.com/neural0x/fonts_inter_ttf) font family).
 - **Custom Icons & Sounds**: Optional / can be left enabled (may be... a big MAYBE... added in future updates).
-- **Plugin**: **[Themes](https://github.com/yutaplug/yutaplugins/tree/main/plugins/Themes)** plugin (legacy Themer is not supported).
+- **Plugin**: **[Themes](https://github.com/yutaplug/yutaplugins/blob/builds/Themes.zip)** plugin (legacy Themer is not supported).
+- **Recommended Plugin**: **[LetMeRead](https://github.com/FurqanHun/aliucord-plugins/blob/builds/LetMeRead.zip)** — Automatically adjusts low-contrast role and username colors to ensure readability on pure AMOLED backgrounds while preserving original hues.
 
 ---
 
 ## Installation
 
-1. Ensure the **[Themes](https://github.com/yutaplug/yutaplugins/tree/main/plugins/Themes)** plugin is installed in Aliucord.
-2. Download your preferred theme file (`AdoMoled.json` or `AmAmAmEx.json`) and place it in:
+1. Download your preferred theme file (`AdoMoled.json` or `AmAmAmEx.json`) and place it in:
    ```text
    /sdcard/Aliucord/themes/
    ```
-3. Open **Themes Settings** from Plugins and enable your theme!
+2. Open **Themes Settings** from Plugins and enable your theme!
 
 ---
 
